@@ -1,1 +1,1 @@
-![](https://github.com/Jumbub/jumbub/blob/main/jumbub_dark.jpg?raw=true)
+![](https://raw.githubusercontent.com/Jumbub/jumbub/main/jumbub_dark.jpg)
