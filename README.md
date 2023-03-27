@@ -9,6 +9,10 @@
 > [https://gameoflife.jamiebray.me/](https://gameoflife.jamiebray.me/)</br>
 > multi-threading (service workers and atomics), typed arrays
 
+##### [Live drawing app with contained hardware & firmware](https://github.com/Jumbub/pico-to-pico/blob/main/README.md)
+
+> Pico W embedded firmware, mqtt messaging, touch screen panel
+
 ##### [Calculator without floating point inaccuracies or implicit approximations](https://github.com/Jumbub/do-math-right)
 
 > pure functional haskell, fractional numbers, error bounds tracking
