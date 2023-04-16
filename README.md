@@ -7,7 +7,7 @@
 ##### [JS micro optimizations](https://github.com/Jumbub/game-of-life-js)
 
 > [https://gameoflife.jamiebray.me/](https://gameoflife.jamiebray.me/)</br>
-> multi-threading (service workers and atomics), typed arrays
+> multi-threading (service workers and atomics), typed arrays, c++ performance comparisons
 
 ##### [Live drawing app with contained hardware & firmware](https://github.com/Jumbub/pico-to-pico/blob/main/README.md)
 
