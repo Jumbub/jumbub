@@ -1,8 +1,3 @@
-# Hi there! 👋
-
-I'm Jamie Bray, a software engineer with a passion for optimizing code and building cool projects. Welcome to my GitHub profile!
-
-
 ## [Maximizing Web Performance ⚡️](https://github.com/Jumbub/game-of-life-js)
 
 JavaScript is faster than people expect, in this project I highlight techniques for optimizing it for speed and efficiency:
