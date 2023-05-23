@@ -1,6 +1,7 @@
 # Hi there! 👋
 
-I'm Jamie Bray, a software engineer with a passion for optimizing code and building cool projects. Welcome to my GitHub profile! 
+I'm Jamie Bray, a software engineer with a passion for optimizing code and building cool projects. Welcome to my GitHub profile!
+
 
 ## [Maximizing Web Performance ⚡️](https://github.com/Jumbub/game-of-life-js)
 
@@ -24,13 +25,40 @@ I love diving deep into C++ code and finding ways to squeeze out every ounce of 
 
 <img src="https://github.com/Jumbub/jumbub/assets/8686526/9f3bc6b9-3335-487e-b16a-aa327294f541" title="Generated image with this app" />
 
-## [JavaScriptless Personal Site 🌐](https://github.com/Jumbub/jamiebray-ui)
+## [Personal Site 🌐](https://github.com/Jumbub/jamiebray-ui)
 
-Sometimes, less is more! I've created my personal website with a focus on frameworkless native HTML5 practices.
+Sometimes, less is more! I've written my personal site with zero JS to illustrate the power and flexibility of CSS.
 
-## [Live Drawing App with Contained Hardware & Firmware 🎨](https://github.com/Jumbub/pico-to-pico)
+- **Semantic HTML**: Naturally increasing accessibility and reducing DOM bloat by properly leveraging HTML semantics.
+- **Native SPA**: Effectively leveraging browser targets to create native single page app experiences.
+- **Raw CSS**: Exploring the limits of native CSS capabilities.
 
-I have experience building a live drawing application that integrates hardware and firmware components. Some highlights:
+![image](https://github.com/Jumbub/jumbub/assets/8686526/4a85b6b5-28cd-4194-bd0b-33770e0f99d5)
+
+## [Self-replicating Minecraft Robot 🤖](https://github.com/Jumbub/replicating-robots)
+
+This Minecraft mod is what ignited my passion for programming *all* the way back in 2012.
+
+I remember finding this challenge in the forums and being in awe at the knowledge required... So in this repository I go back and complete the challenge. Feels good 😌
+
+- **The Challenge**: Write an AI in Lua capable of replicating itself.
+- **Capabilties**: The robot forages, mines, smelts and crafts all while operating efficiently to minimise fuel usage.
+
+![image](https://github.com/Jumbub/jumbub/assets/8686526/78f12206-54ed-42fc-a454-ff390415649d)
+
+## [Logic Solver 🎯](https://github.com/Jumbub/block-world)
+
+Logical programming is interesting because the solutions almost write themselves, this is my first foray into the topic:
+
+- **Backward Chaining**: Implementing backward chaining algorithms for logical reasoning.
+- **Pretty Diagrams**: Visualizing logical structures and solutions with beautiful and educational diagrams.
+- **Blockworld**: Check out my logic solver in action [here](https://blockworld.jamiebray.me/)!
+
+![image](https://github.com/Jumbub/jumbub/assets/8686526/49641f38-c1bd-4604-a311-c927d56f7282)
+
+## [Live Drawing with Custom Software & Hardware 🎨](https://github.com/Jumbub/pico-to-pico)
+
+A gift to my sister as I headed off to live overseas in Vancuover for a couple years. The idea was that while we were both on opposite sides of the country, we'd always have a realtime method of light communication.
 
 - **Pico W**: Developed firmware for the Raspbery Pico Wifi microcontroller board.
 - **MQTT Messaging**: Leveraged the MQTT messaging protocol for real-time communication between devices.
@@ -39,35 +67,17 @@ I have experience building a live drawing application that integrates hardware a
 
 ![image](https://github.com/Jumbub/jumbub/assets/8686526/255d0137-c5df-4923-8311-eb0c5c027a4f)
 
-## [Logic Solver 🎯](https://github.com/Jumbub/block-world)
+## [Abusing TypeScript 💥](https://github.com/Jumbub/abusing-typescript)
 
-![image](https://github.com/Jumbub/jumbub/assets/8686526/db9d382c-e127-4be7-8e09-0e8945a11406)
-
-Logic solving is both challenging and fascinating. Here's a logic solver project I've worked on:
-
-- **Backward Chaining**: Implementing backward chaining algorithms for logical reasoning.
-- **Pretty Diagrams**: Visualizing logical structures and solutions with beautiful diagrams.
-- **Blockworld**: Check out my logic solver in action [here](https://blockworld.jamiebray.me/)!
-
-## Calculator without Floating Point Inaccuracies or Implicit Approximations 🧮
-
-Functional programming in Haskell allows for precise calculations without floating point inaccuracies. My calculator project includes:
-
-- **Pure Functional Haskell**: Building a calculator using pure functional programming paradigms.
-- **Fractional Numbers**: Handling fractional numbers accurately and with high precision.
-- **Error Bounds Tracking**: Implementing error tracking mechanisms to ensure accuracy and precision.
-
-## Self-playing Minecraft Robot 🤖
-
-Who doesn't love Minecraft? I've created a Lua-based robot that explores, mines, smelts, and crafts automatically. Key features:
-
-- **Lua Scripting**: Developing scripts in Lua to control the Minecraft robot's actions.
-- **Nostalgia**: Combining nostalgia for Minecraft with the joy of automation.
-- **Foraging and Crafting**: The robot autonomously forages resources and crafts items in the game.
-
-## Abusing TypeScript 💥
-
-TypeScript's type system can be pushed to its limits. I enjoy exploring the boundaries and discovering creative uses:
+TypeScript's type system is truly fascinating. In this repository I explore some of it's limits *and lack thereof*:
 
 - **Turing Complete Type Systems**: Exploring the expressive power of TypeScript's type system.
 - **Type-Driven Development**: Leveraging types for program design and verification.
+
+## [Calculator without Floating Point Inaccuracies or Implicit Approximations 🧮](https://github.com/Jumbub/do-math-right)
+
+Functional programming in Haskell allows for precise calculations without floating point inaccuracies. My calculator project includes:
+
+- **Error Bounds Tracking**: Implementing error tracking mechanisms to ensure accuracy when using transcendental functions such as sine.
+- **Infinitely Large Fractions**: Storing and operating on numbers in a lossless manor with infinitely large values.
+- **Pure Functional Haskell**: Building a calculator using pure functional programming paradigms.
