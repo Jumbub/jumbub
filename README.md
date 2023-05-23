@@ -58,7 +58,7 @@ Logical programming is interesting because the solutions almost write themselves
 
 ## [Live Drawing with Custom Software & Hardware 🎨](https://github.com/Jumbub/pico-to-pico)
 
-A gift to my sister as I headed off to live overseas in Vancuover for a couple years. The idea was that while we were both on opposite sides of the country, we'd always have a realtime method of light communication.
+A gift to my sister as I headed off to live overseas in Vancuover for a couple years. The idea was that while we were both on opposite sides of the country, we'd still have some level of live casual interaction.
 
 - **Pico W**: Developed firmware for the Raspbery Pico Wifi microcontroller board.
 - **MQTT Messaging**: Leveraged the MQTT messaging protocol for real-time communication between devices.
