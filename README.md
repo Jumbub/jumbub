@@ -5,7 +5,7 @@ I'm Jamie Bray, a Senior Full Stack Developer with a passion for optimising soft
 JavaScript is faster than people expect, in this project I highlight techniques for optimizing it for speed and efficiency:
 
 - **Multi-threading**: Leveraging web workers and atomics for concurrent execution.
-- **Typed Arrays**: Utilizing typed arrays to improve code predictability and reduce memory overhead.
+- **Typed Arrays**: Utilizing typed arrays to reduce memory overhead through and encourage aggressive optimisations in V8.
 - **C++ Performance Comparisons**: Conducting performance benchmarks between JavaScript and C++ for optimization insights.
 - **Game of Life**: Check out the app built with these techniques [here](https://gameoflife.jamiebray.me/)!
 
