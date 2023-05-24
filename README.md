@@ -61,13 +61,6 @@ Functional programming in Haskell allows for precise calculations without floati
 - **Infinitely Large Fractions**: Storing and operating on numbers in a lossless manor with infinitely large values.
 - **Pure Functional Haskell**: Building a calculator using pure functional programming paradigms.
 
-## [Abusing TypeScript 💥](https://github.com/Jumbub/abusing-typescript)
-
-TypeScript's type system is truly fascinating. In this repository I explore some of it's limits *and lack thereof*:
-
-- **Turing Complete Type Systems**: Exploring the expressive power of TypeScript's type system.
-- **Type-Driven Development**: Leveraging types for program design and verification.
-
 ## [Live Drawing with Custom Software & Hardware 🎨](https://github.com/Jumbub/pico-to-pico)
 
 A gift to my sister as I headed off to live overseas in Vancuover for a couple years. The idea was that while we were both on opposite sides of the country, we'd still have some level of live casual interaction.
@@ -77,4 +70,9 @@ A gift to my sister as I headed off to live overseas in Vancuover for a couple y
 - **Touch Screen Panel**: Integrating touch screen panels for interactive drawing experiences.
 - **3D Printing**: Printing and shaping a case to fit the board and touch panel.
 
-![image](https://github.com/Jumbub/jumbub/assets/8686526/255d0137-c5df-4923-8311-eb0c5c027a4f)
+## [Abusing TypeScript 💥](https://github.com/Jumbub/abusing-typescript)
+
+TypeScript's type system is truly fascinating. In this repository I explore some of it's limits *and lack thereof*:
+
+- **Turing Complete Type Systems**: Exploring the expressive power of TypeScript's type system.
+- **Type-Driven Development**: Leveraging types for program design and verification.
