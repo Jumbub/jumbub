@@ -32,6 +32,16 @@ Sometimes, less is more! I've written my personal site with zero JS to illustrat
 
 ![image](https://github.com/Jumbub/jumbub/assets/8686526/4a85b6b5-28cd-4194-bd0b-33770e0f99d5)
 
+## [Logic Solver 🎯](https://github.com/Jumbub/block-world)
+
+Logical programming is interesting because the solutions almost write themselves, this is my first foray into the topic:
+
+- **Backward Chaining**: Implementing backward chaining algorithms for logical reasoning.
+- **Pretty Diagrams**: Visualizing logical structures and solutions with beautiful and educational diagrams.
+- **Blockworld**: Check out my logic solver in action [here](https://blockworld.jamiebray.me/)!
+
+![image](https://github.com/Jumbub/jumbub/assets/8686526/49641f38-c1bd-4604-a311-c927d56f7282)
+
 ## [Self-replicating Minecraft Robot 🤖](https://github.com/Jumbub/replicating-robots)
 
 This Minecraft mod is what ignited my passion for programming *all* the way back in 2012.
@@ -42,16 +52,6 @@ I remember finding this challenge in the forums and being in awe at the knowledg
 - **Capabilties**: The robot forages, mines, smelts and crafts all while operating efficiently to minimise fuel usage.
 
 ![image](https://github.com/Jumbub/jumbub/assets/8686526/78f12206-54ed-42fc-a454-ff390415649d)
-
-## [Logic Solver 🎯](https://github.com/Jumbub/block-world)
-
-Logical programming is interesting because the solutions almost write themselves, this is my first foray into the topic:
-
-- **Backward Chaining**: Implementing backward chaining algorithms for logical reasoning.
-- **Pretty Diagrams**: Visualizing logical structures and solutions with beautiful and educational diagrams.
-- **Blockworld**: Check out my logic solver in action [here](https://blockworld.jamiebray.me/)!
-
-![image](https://github.com/Jumbub/jumbub/assets/8686526/49641f38-c1bd-4604-a311-c927d56f7282)
 
 ## [Calculator without Floating Point Inaccuracies or Implicit Approximations 🧮](https://github.com/Jumbub/do-math-right)
 
