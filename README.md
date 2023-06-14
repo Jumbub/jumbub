@@ -55,7 +55,7 @@ Logical programming is interesting because the solutions almost write themselves
 
 ## [Calculator without Floating Point Inaccuracies or Implicit Approximations 🧮](https://github.com/Jumbub/do-math-right)
 
-Functional programming in Haskell allows for precise calculations without floating point inaccuracies. My calculator project includes:
+Solving expressions without floating point innaccuracies or implicit approximations:
 
 - **Error Bounds Tracking**: Implementing error tracking mechanisms to ensure accuracy when using transcendental functions such as sine.
 - **Infinitely Large Fractions**: Storing and operating on numbers in a lossless manor with infinitely large values.
