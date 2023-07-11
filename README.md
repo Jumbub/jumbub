@@ -1,5 +1,3 @@
-I'm Jamie Bray, a Senior Full Stack Developer with a passion for optimising software performance. Welcome to my GitHub profile!
-
 ## [Maximizing Web Performance ⚡️](https://github.com/Jumbub/game-of-life-js)
 
 JavaScript is faster than people expect, in this project I highlight techniques for optimizing it for speed and efficiency:
