@@ -20,6 +20,16 @@ I love diving deep into C++ code and finding ways to squeeze out every ounce of 
 
 <img src="https://github.com/Jumbub/jumbub/assets/8686526/9f3bc6b9-3335-487e-b16a-aa327294f541" title="Generated image with this app" />
 
+## [More micro-optimizations in C++ 🏎️](https://github.com/Jumbub/bf-cpp)
+
+It's entirely possible this is the fast non-jit brainfuck interpreter (on my machine), notably it required knowledge in:
+
+- **Instruction Speed vs Data Locality**: Prioritised data types based on their operation clock counts.
+- **Computed Gotos**: Replaced traditional dispatch logic with a system more friendly with branch prediction.
+- **Instruction Locality Awareness**: Explored how source file order, dead code, and struct layout can influence performance through cache behavior and code locality.
+
+![image](https://github.com/user-attachments/assets/a40455c0-0924-48a1-84ca-4da24ce91c32)
+
 ## [Personal Site 🌐](https://github.com/Jumbub/jamiebray-ui)
 
 Sometimes, less is more! I've written my personal site with zero JS to illustrate the power and flexibility of CSS.
