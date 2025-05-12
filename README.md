@@ -1,14 +1,3 @@
-## [Maximizing Web Performance ⚡️](https://github.com/Jumbub/game-of-life-js)
-
-JavaScript is faster than people expect, in this project I highlight techniques for optimizing it for speed and efficiency:
-
-- **Multi-threading**: Leveraging web workers and atomics for concurrent execution.
-- **Typed Arrays**: Utilizing typed arrays to reduce memory overhead through and encourage aggressive optimisations in V8.
-- **C++ Performance Comparisons**: Conducting performance benchmarks between JavaScript and C++ for optimization insights.
-- **Game of Life**: Check out the app built with these techniques [here](https://gameoflife.jamiebray.me/)!
-
-<img src="https://github.com/Jumbub/jumbub/assets/8686526/19c8b281-45d6-4279-a196-4c7057717679" title="Generated image with this app" />
-
 ## [Micro-optimizations in C++ 🚀](https://github.com/Jumbub/game-of-life-cpp)
 
 I love diving deep into C++ code and finding ways to squeeze out every ounce of performance. This project highlights:
@@ -29,6 +18,17 @@ It's entirely possible this is the fast non-jit brainfuck interpreter (on my mac
 - **Instruction Locality Awareness**: Explored how source file order, dead code, and struct layout can influence performance through cache behavior and code locality.
 
 ![image](https://github.com/user-attachments/assets/a40455c0-0924-48a1-84ca-4da24ce91c32)
+
+## [Maximizing Web Performance ⚡️](https://github.com/Jumbub/game-of-life-js)
+
+JavaScript is faster than people expect, in this project I highlight techniques for optimizing it for speed and efficiency:
+
+- **Multi-threading**: Leveraging web workers and atomics for concurrent execution.
+- **Typed Arrays**: Utilizing typed arrays to reduce memory overhead through and encourage aggressive optimisations in V8.
+- **C++ Performance Comparisons**: Conducting performance benchmarks between JavaScript and C++ for optimization insights.
+- **Game of Life**: Check out the app built with these techniques [here](https://gameoflife.jamiebray.me/)!
+
+<img src="https://github.com/Jumbub/jumbub/assets/8686526/19c8b281-45d6-4279-a196-4c7057717679" title="Generated image with this app" />
 
 ## [Personal Site 🌐](https://github.com/Jumbub/jamiebray-ui)
 
